@@ -1,0 +1,32 @@
+<RCC>
+  <qresource prefix="find">
+    <file>icons/find/点_dot.svg</file>
+    <file>icons/find/点击缩起_click-to-fold.svg</file>
+    <file>icons/find/更多_more.svg</file>
+    <file>icons/find/更多_more-four.svg</file>
+    <file>icons/find/关闭_close.svg</file>
+    <file>icons/find/回传数据_date-comes-back.svg</file>
+    <file>icons/find/减_minus.svg</file>
+    <file>icons/find/两个三角_two-triangles-two.svg</file>
+    <file>icons/find/两个椭圆_two-ellipses.svg</file>
+    <file>icons/find/列表视图_list-view.svg</file>
+    <file>icons/find/魔比斯环_cross-ring-two.svg</file>
+    <file>icons/find/魔方_cube-five.svg</file>
+    <file>icons/find/魔方_cube-three.svg</file>
+    <file>icons/find/魔方_cube-two.svg</file>
+    <file>icons/find/脑图_mind-mapping.svg</file>
+    <file>icons/find/内部扩大_internal-expansion.svg</file>
+    <file>icons/find/内部缩小_internal-reduction.svg</file>
+    <file>icons/find/全局放大_full-screen.svg</file>
+    <file>icons/find/全局放大2_full-screen-two.svg</file>
+    <file>icons/find/伸展_stretching.svg</file>
+    <file>icons/find/收起文本域_collapse-text-input.svg</file>
+    <file>icons/find/树结构_tree-list.svg</file>
+    <file>icons/find/数据文件_data-file.svg</file>
+    <file>icons/find/文件夹_seo-folder.svg</file>
+    <file>icons/find/文件夹1_folder-one.svg</file>
+    <file>icons/find/文件设置1_file-settings-one.svg</file>
+    <file>icons/find/五个椭圆_five-ellipses.svg</file>
+    <file>icons/find/隐藏文件1_file-hiding-one.svg</file>
+  </qresource>
+</RCC>
